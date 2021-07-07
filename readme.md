@@ -1,3 +1,3 @@
 # Проекты студентов
 
-* (Георгий)[projects/georgiy.php]
+* [Георгий](projects/georgiy.php)
